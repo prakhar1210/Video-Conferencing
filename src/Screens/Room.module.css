@@ -1,0 +1,12 @@
+.screen {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.stream {
+  flex: 1; /* Distribute available space evenly */
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 5px;
+  box-sizing: border-box;
+}
